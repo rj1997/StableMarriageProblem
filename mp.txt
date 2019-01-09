@@ -1,0 +1,5 @@
+bingley: ['jane', 'elizabeth', 'lynda', 'charlotte']
+collins: ['jane', 'elizabeth', 'lynda', 'charlotte']
+wick: ['lynda', 'jane', 'elizabeth', 'charlotte']
+darcy: ['elizabeth', 'jane', 'charlotte', 'lynda']
+
