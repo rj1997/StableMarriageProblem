@@ -46,6 +46,12 @@ python3 stablemarriageproblem.py
 The work is still in progress, I will add more functionalities to this algorithm in some time.
 But you are free to make pull requests and start commiting.
 
+## TODO
+Solve these similar problems:
+1. Assignment Problem (An uber like application, taxi-customer problem) 
+2. Stable roommates problem (Basic implementation of choosing roommates in a college)
+3. Hospital/Residents problem (Single hospital can have multiple residents, fix the situation)
+
 
 ## Authors
 
