@@ -64,13 +64,3 @@ while len(temp_engagement) is not males:
 	printdict(temp_engagement)
 
 	day = day + 1
-
-
-	# for key,value in female_pref:
-	# 	chosenmale = female_pref[key][day]
-	# 	if chosenmale not in temp_engagement:
-	# 		temp_engagement[chosenmale] = key
-	# 	else:
-	# 		if male_pref[chosenmale].index(key) < male_pref[chosenmale].index(temp_engagement[chosenmale]):
-	# 			temp_engagement[chosenmale] = key
-	# day = day + 1
